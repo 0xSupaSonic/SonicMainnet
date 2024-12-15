@@ -1,1 +1,1 @@
-# SupaSonic-v1
+# SupaSonic-v1 for Mainnet
